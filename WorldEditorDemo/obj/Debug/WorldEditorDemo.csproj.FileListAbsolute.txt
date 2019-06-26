@@ -1,0 +1,49 @@
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WorldEditorDemo\bin\Debug\MyMapObjectDemo.exe.config
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WorldEditorDemo\bin\Debug\MyMapObjectDemo.exe
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WorldEditorDemo\bin\Debug\MyMapObjectDemo.pdb
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WorldEditorDemo\bin\Debug\WEMapObjects.dll
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WorldEditorDemo\bin\Debug\WEMapObjects.pdb
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WorldEditorDemo\obj\Debug\WorldEditorDemo.csprojAssemblyReference.cache
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WorldEditorDemo\obj\Debug\WEMapDemo.frmMain.resources
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WorldEditorDemo\obj\Debug\WEMapDemo.frmSetting.resources
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WorldEditorDemo\obj\Debug\MyMapObjectDemo.Properties.Resources.resources
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WorldEditorDemo\obj\Debug\WorldEditorDemo.csproj.GenerateResource.cache
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WorldEditorDemo\obj\Debug\WorldEditorDemo.csproj.CoreCompileInputs.cache
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WorldEditorDemo\obj\Debug\WorldEditorDemo.csproj.CopyComplete
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WorldEditorDemo\obj\Debug\MyMapObjectDemo.exe
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WorldEditorDemo\obj\Debug\MyMapObjectDemo.pdb
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\bin\Debug\MyMapObjectDemo.exe.config
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\bin\Debug\MyMapObjectDemo.exe
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\bin\Debug\MyMapObjectDemo.pdb
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\bin\Debug\WEMapObjects.dll
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\bin\Debug\WEMapObjects.pdb
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\obj\Debug\WorldEditorDemo.csprojAssemblyReference.cache
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\obj\Debug\WEMapDemo.frmMain.resources
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\obj\Debug\WEMapDemo.frmSetting.resources
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\obj\Debug\MyMapObjectDemo.Properties.Resources.resources
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\obj\Debug\WorldEditorDemo.csproj.GenerateResource.cache
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\obj\Debug\WorldEditorDemo.csproj.CoreCompileInputs.cache
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\obj\Debug\WorldEditorDemo.csproj.CopyComplete
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\obj\Debug\MyMapObjectDemo.exe
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\obj\Debug\MyMapObjectDemo.pdb
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\obj\Debug\WEMapDemo.SingleSymbolSetting.resources
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\obj\Debug\WEMapDemo.UniqueSymbolSetting.resources
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WorldEditorDemo\obj\Debug\WEMapDemo.ClassBreaksSymbolSetting.resources
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\bin\Debug\MyMapObjectDemo.exe.config
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\bin\Debug\MyMapObjectDemo.exe
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\bin\Debug\MyMapObjectDemo.pdb
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\bin\Debug\WEMapObjects.dll
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\bin\Debug\WEMapObjects.pdb
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\obj\Debug\WorldEditorDemo.csprojAssemblyReference.cache
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\obj\Debug\WEMapDemo.frmMain.resources
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\obj\Debug\MyMapObjectDemo.Properties.Resources.resources
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\obj\Debug\WorldEditorDemo.csproj.GenerateResource.cache
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\obj\Debug\WorldEditorDemo.csproj.CoreCompileInputs.cache
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\obj\Debug\WorldEditorDemo.csproj.CopyComplete
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\obj\Debug\MyMapObjectDemo.exe
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\obj\Debug\MyMapObjectDemo.pdb
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\obj\Debug\WEMapDemo.frmData.resources
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\obj\Debug\WEMapDemo.StyleSetting.resources
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\obj\Debug\WEMapDemo.frmLabelSetting.resources
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\obj\Debug\WEMapDemo.frmIdentify.resources
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WorldEditorDemo\obj\Debug\WEMapDemo.frmNewLayer.resources

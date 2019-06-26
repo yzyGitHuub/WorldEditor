@@ -1,0 +1,24 @@
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\test\bin\Debug\test.exe
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\test\bin\Debug\test.pdb
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\test\bin\Debug\WEMapObjects.dll
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\test\bin\Debug\WEMapObjects.pdb
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\test\obj\Debug\test.Form1.resources
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\test\obj\Debug\test.csproj.CopyComplete
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\test\obj\Debug\test.exe
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\test\obj\Debug\test.pdb
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\test\bin\Debug\test.exe
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\test\bin\Debug\test.pdb
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\test\bin\Debug\WEMapObjects.dll
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\test\bin\Debug\WEMapObjects.pdb
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\test\obj\Debug\test.Form1.resources
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\test\obj\Debug\test.csproj.CopyComplete
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\test\obj\Debug\test.exe
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\test\obj\Debug\test.pdb

@@ -1,0 +1,27 @@
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.Properties.Resources.resources
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.csproj.GenerateResource.cache
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.csproj.CoreCompileInputs.cache
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WEMapObjects\bin\Debug\WEMapObjects.dll
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WEMapObjects\bin\Debug\WEMapObjects.pdb
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.dll
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.pdb
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.WEMapControl.resources
+C:\Users\OSIRIS\Desktop\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.csprojAssemblyReference.cache
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WEMapObjects\bin\Debug\WEMapObjects.dll
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WEMapObjects\bin\Debug\WEMapObjects.pdb
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.csprojAssemblyReference.cache
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.Properties.Resources.resources
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.WEMapControl.resources
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.csproj.GenerateResource.cache
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.csproj.CoreCompileInputs.cache
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.dll
+D:\大三下\GIS设计与应用\作业一\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.pdb
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WEMapObjects\bin\Debug\WEMapObjects.dll
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WEMapObjects\bin\Debug\WEMapObjects.pdb
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.Properties.Resources.resources
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.WEMapControl.resources
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.csproj.GenerateResource.cache
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.csproj.CoreCompileInputs.cache
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.dll
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.pdb
+C:\Users\OSIRIS\Desktop\新建文件夹 (3)\zrq4-43\WorldEditorDemo\WEMapObjects\obj\Debug\WEMapObjects.csprojAssemblyReference.cache
